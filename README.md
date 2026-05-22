@@ -1,24 +1,29 @@
 # Alan Balduino da Rosa
 
-Data & Automation Engineer focused on Data Engineering, ETL/ELT pipelines, integrations, analytics and AI-driven workflows.
+Data Engineer focused on ETL/ELT pipelines, automation, integrations, distributed data processing and modern data platforms.
 
 ## About
 
-Currently working with data engineering, automation and analytics solutions, building pipelines, integrations and scalable data workflows focused on operational efficiency and business decision-making.
+Currently working with Data Engineering, automation and analytics solutions, building scalable pipelines, integrations and data workflows focused on operational efficiency, reliability and business decision-making.
 
-Experience with SQL, Python, ETL/ELT, APIs, dashboards, automations and modern data stack technologies.
+Experience with SQL, Python, APIs, ETL/ELT, automation workflows and modern data stack technologies, acting on data ingestion, transformation, integration and analytical processing across multiple sources.
 
-Main areas of interest:
+Strong interest in scalable data architectures, Lakehouse environments, distributed processing, cloud computing and AI-driven automation.
+
+## Main Areas
 
 * Data Engineering
 * Analytics Engineering
-* Automation
-* AI Applied to Data
+* Data Pipelines
+* ETL / ELT
+* Automation & Integrations
 * Cloud & Modern Data Stack
+* Distributed Data Processing
+* AI Applied to Data Workflows
 
 ## Tech Stack
 
-### Data
+### Data Engineering
 
 * SQL Server
 * PostgreSQL
@@ -28,41 +33,62 @@ Main areas of interest:
 * ETL / ELT
 * PySpark
 * Databricks
+* SparkSQL
 * AWS S3
+* Data Lake
+* Lakehouse Architecture
 
 ### Automation & Backend
 
 * Python
 * JavaScript
-* APIs REST
+* Node.js
+* REST APIs
 * n8n
 * Supabase
 * C#
 
-### Analytics
+### Analytics & Monitoring
 
 * Power BI
 * Metabase
 * Grafana
 
+### Dev & Workflow
+
+* Git
+* GitHub
+* CI/CD
+* Scrum
+* Kanban
+
 ## Projects
 
-### Medallion Data Pipeline
+### Medallion Lakehouse Pipeline
 
-Pipeline project using Bronze, Silver and Gold architecture focused on scalable analytical processing and data organization.
+Pipeline project following Bronze, Silver and Gold architecture focused on scalable analytical processing, data transformation and Lakehouse organization.
 
 ### AI & Automation Workflows
 
-Automation and integration workflows using Python, APIs and AI tools to improve operational efficiency and productivity.
+Automation and integration workflows using Python, APIs and AI tools to improve operational efficiency, data processing and workflow orchestration.
 
-### Analytics & Dashboards
+### ETL & Data Integration
 
-Development of dashboards, KPIs and analytical solutions for business monitoring and decision-making.
+Development of ETL/ELT pipelines, APIs integrations and automated workflows for analytical and operational environments.
+
+## Currently Learning
+
+* Advanced PySpark
+* Databricks
+* Delta Lake
+* Kafka
+* Azure Data Platform
+* DataOps & CI/CD for Data Engineering
 
 ## Contact
 
-LinkedIn:
+LinkedIn
 [www.linkedin.com/in/alan-balduino-da-rosa-13919331a](http://www.linkedin.com/in/alan-balduino-da-rosa-13919331a)
 
-Email:
+Email
 [alanbalduinorosa@gmail.com](mailto:alanbalduinorosa@gmail.com)
